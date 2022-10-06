@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\bin\Debug\Lab 2 Cristian Menjivar y Manuel humberto.exe.config
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\bin\Debug\Lab 2 Cristian Menjivar y Manuel humberto.exe
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\bin\Debug\Lab 2 Cristian Menjivar y Manuel humberto.pdb
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab 2 Cristian Menjivar y Manuel humberto.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab 2 Cristian Menjivar y Manuel humberto.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab_2_Cristian_Menjivar_y_Manuel_humberto.Form1.resources
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab_2_Cristian_Menjivar_y_Manuel_humberto.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab 2 Cristian Menjivar y Manuel humberto.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab 2 Cristian Menjivar y Manuel humberto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab 2 Cristian Menjivar y Manuel humberto.exe
+C:\Users\USUARIO\Desktop\Progra ll\Lab 2 Cristian Menjivar y Manuel humberto\Lab 2 Cristian Menjivar y Manuel humberto\obj\Debug\Lab 2 Cristian Menjivar y Manuel humberto.pdb
